@@ -48,6 +48,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 From the people that do not believe in the post life, 34.78% say the Big Bang theory is false and 65.22% believe it is true.  From the people that do believe in the post life, 56.77% believe the big bang theory is false and 43.23% believe that it is true.  These numerical results seem to support the graphical results observed.      
+  
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
@@ -57,6 +58,11 @@ chisq.test(table1)
 chisqtestGC(table1)
 fisher.test(table1)
 ```
+Let's consider the odds for a bit.  Of those who stated that they did not believe in the post life, the odds of them saying that the big bang is false is 8/15(.5333).  Of those that stated that they believed in the after life, the odds that they said they believed in the big bang theory is 88/67(1.31).  The odds are .408:1.  With the probability of occurence being P=.0801, we will not be able to reject the null hypothesis.  The null hypothesis be accepted. 
+```{r}
+(8/15)/(88/67)
+```
+
 
 # Discussion and Conclusion
 
