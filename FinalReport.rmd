@@ -37,7 +37,9 @@ barchartGC(~POSTLIFE + BIGBANG,data=GSS)
 barchartGC(~POSTLIFE + BIGBANG,data=GSS, type="percent")
 
 ```
-
+  
+The graphs tells us that there are more people that believe in the after life than those who do not.  Of the people who believe in the afterlife a larger number and percentage of them believe that the big bang theory is false. Of the people who do not believe in the afterlife, a larger number believe that the big bank theory is true. This information leads us to believe there might be a statistical differece, but further numerical and inferential results need to be observed. 
+  
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
