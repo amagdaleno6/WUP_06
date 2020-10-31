@@ -70,4 +70,4 @@ Let's consider the odds for a bit.  Of those who stated that they did not believ
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-After reviewing the results we are forced to accept the null hypothesis and are unable to reject it.  The probability of p=.0801 is not small enough to allow us to confidently reject the null hypothesis.  More observations or data would be needed in order to make a further determination.    
+After reviewing the results from the data collected, we have failed to reject the null hypothesis.  The probability of p=.0801 is not small enough to allow us to confidently reject the null hypothesis. More observations or data would be needed in order to make a further determination.    
